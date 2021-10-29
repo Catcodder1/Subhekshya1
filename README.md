@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Subhekshya.
+- 👋 Hi, I’m @catcoder.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on coding.
 - 📫 How to reach me 
 emailid:iamsubu10@gmail.com
-discord ID:iamsubu10#1554
+discord ID:catcoder#1554
 
 
 <!---
